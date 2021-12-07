@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ukol1_pole_Csharp2", "Ukol1_pole_Csharp2\Ukol1_pole_Csharp2.csproj", "{ED68DA7B-F711-40DE-91D3-8A18B5855E06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED68DA7B-F711-40DE-91D3-8A18B5855E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED68DA7B-F711-40DE-91D3-8A18B5855E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED68DA7B-F711-40DE-91D3-8A18B5855E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED68DA7B-F711-40DE-91D3-8A18B5855E06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {746A1204-82BD-4EEE-8D27-3803E92362DC}
+	EndGlobalSection
+EndGlobal
